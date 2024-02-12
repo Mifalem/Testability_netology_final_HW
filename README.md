@@ -44,7 +44,7 @@
     * Позитивные кейсы.
     * Негативные кейсы.
 
-[Ссылка на google документ с тест-кейсами](https://docs.google.com/spreadsheets/d/14iYpwO5VVHf3h8DhdiJKWBsiE4V8ZxQZzbCrzSJZb80/edit?usp=sharing).
+[Ссылка на google документ с тест-кейсами](https://docs.google.com/spreadsheets/d/14iYpwO5VVHf3h8DhdiJKWBsiE4V8ZxQZzbCrzSJZb80/edit#gid=0).
 
 ### Перечень используемых инструментов с обоснованием выбора.
 
